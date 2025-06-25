@@ -1,3 +1,11 @@
+# [QuantRepViT: Efficient Post-Training Quantization for RepViT]
+## Experiment Result
+### Quantaization Sensitivity
+![image](https://github.com/user-attachments/assets/e61c68ea-25df-4e0d-b5bc-82c17c15c9c5)
+### Top-1 accuracy(%) of RepViT INT8 models with different layer quantization skips.
+Our task is image classification, and we use the ImageNet validation set, which contains 50,000 images, as our testing set.
+![image](https://github.com/user-attachments/assets/367a0656-edbd-4227-a916-c9d51d191456)
+
 # [RepViT-SAM: Towards Real-Time Segmenting Anything](https://arxiv.org/abs/2312.05760)
 
 # [RepViT: Revisiting  Mobile CNN From ViT Perspective](https://arxiv.org/abs/2307.09283)
